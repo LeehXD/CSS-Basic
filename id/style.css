@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+background-color: rgb(255, 213, 242);
+font-family:Arial, Helvetica, sans-serif;
+color: rgb(0, 0, 0);
+font-size: 15px;
+}
+h1#principal {
+    color: indigo;
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 0, 128);
+}
+h2{
+    color: rgba(0, 146, 190, 0.541);
+}
