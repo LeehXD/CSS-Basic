@@ -16,3 +16,12 @@ h1{
 h2{
     color: rgba(0, 146, 190, 0.541);
 }
+
+.basico{
+color: rgb(0, 183, 255);
+
+}
+.amarelo{
+    color: rgb(255, 255, 255);
+    background-color: palevioletred;
+}
